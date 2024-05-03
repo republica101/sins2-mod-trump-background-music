@@ -1,0 +1,21 @@
+{
+    "music_transition_duration": 10.0,
+    "in_game_musics": [
+        "ella_baila_sola",
+        "god_emperor",
+        "my-way",
+        "video_games",
+        "viva_la_vida",
+        "waiting_for_love"
+    ],
+    "in_game_music_duration": 180,
+    "loading_music": "god_emperor",
+    "front_end_views_music":
+    {
+        "single_player": "ella_baila_sola",
+        "multi_player": "god_emperor",
+        "lan": "god_emperor",
+        "watching": "god_emperor",
+        "modding": "god_emperor"
+    }
+}
